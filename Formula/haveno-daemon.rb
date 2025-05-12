@@ -1,5 +1,5 @@
 class HavenoDaemon < Formula
-    desc "Haveno - A peer to peer decentralized exchange daemon for Monero"
+    desc "Haveno - A client for the peer to peer decentralized exchange daemon for Monero"
     homepage "https://haveno.com"
     url "https://dist.haveno.com/haveno-daemon-v1.0.0.tar.gz"
     sha256 "SHA256_SUM"
