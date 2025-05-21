@@ -118,6 +118,7 @@ automattic-texts
 avast-secure-browser
 aws-vpn-client
 axure-rp
+ayugram
 azure-data-studio
 ba-connected
 babeledit
@@ -264,6 +265,7 @@ clipbook
 clock-signal
 clockify
 clop
+cloud-pbx
 cloudflare-warp
 cloudflare-warp@beta
 cloudmounter
@@ -1238,6 +1240,7 @@ progressive-downloader
 pronotes
 propresenter
 propresenter@beta
+protokol
 proton-drive
 proton-mail
 proton-mail-bridge
@@ -1448,6 +1451,7 @@ snagit
 snapmaker-luban
 snowflake-snowsql
 softmaker-freeoffice
+sokim
 sol
 solar2d
 sonarr
@@ -1483,6 +1487,7 @@ squash
 stability-matrix
 standard-notes
 starsector
+start
 startupfolder
 staruml
 stash
