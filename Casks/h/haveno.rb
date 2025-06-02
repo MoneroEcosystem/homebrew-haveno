@@ -1,7 +1,7 @@
 cask "haveno" do
   version "1.0.0"
   
-  sha256 "f7b1972c38ffc54ad3d46011c98d7efab16211c3335740cd0233dd612e872ed1"
+  sha256 "d50cca4ccfb48a997acb43d9c77c54138ec062268851a233a39268ab4944e4b9"
 
   url "https://github.com/KewbitXMR/haveno-app/releases/download/v#{version}/Haveno-Multi-Platform-MacOS-Homebrew-v#{version}.zip",
       verified: "github.com/KewbitXMR/haveno-app/"
