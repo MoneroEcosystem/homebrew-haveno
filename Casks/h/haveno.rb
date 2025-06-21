@@ -1,9 +1,9 @@
 cask "haveno" do
   version "1.0.0"
   
-  sha256 "d50cca4ccfb48a997acb43d9c77c54138ec062268851a233a39268ab4944e4b9"
+  sha256 "c2b48c83773fb56008af87357731febd3d9fa4254d07874dd88eb7e0544fedce"
 
-  url "https://github.com/KewbitXMR/haveno-app/releases/download/v#{version}/Haveno-Multi-Platform-MacOS-Homebrew-v#{version}.zip",
+  url "https://github.com/KewbitXMR/haveno-app/releases/download/v#{version}/haveno-macos-homebrew-cask-v#{version}.zip",
       verified: "github.com/KewbitXMR/haveno-app/"
   name "Haveno"
   desc "Client for the P2P decentralised exchange built on Tor and Monero"
